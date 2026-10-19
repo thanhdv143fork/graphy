@@ -81,7 +81,7 @@ Then in Window > Package Manager, you can select Packages: My Registry to see Gr
 {
   "dependencies": {
     ...
-    "com.tayx.graphy": "https://github.com/Tayx94/graphy.git",
+    "com.tayx.graphy": "https://github.com/thanhdv143fork/graphy.git",
     ...
   }
 }
