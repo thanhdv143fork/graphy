@@ -18,7 +18,7 @@ namespace Tayx.Graphy
 {
     public class GraphyMenuItem
     {
-        [MenuItem( "Tools/Graphy/Create Prefab Variant" )]
+        // [MenuItem( "Tools/Graphy/Create Prefab Variant" )]
         static void CreatePrefabVariant()
         {
             // Directory checking
